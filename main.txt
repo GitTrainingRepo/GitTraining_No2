@@ -1,0 +1,9 @@
+// 文字結合に使用
+
+
+
+minus(){
+	ac = abc - b
+	return ac
+	}
+
